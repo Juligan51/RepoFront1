@@ -1,0 +1,130 @@
+.descuentos {
+           background-color: #1CD1B0;
+           box-sizing: border-box;
+           margin: 0;
+           height: 35px;
+           font-family: 'Roboto', sans-serif;
+           padding: 8px;
+           
+              }
+
+.heroes{
+         background-color:#00669F;
+         box-sizing: border-box;
+         margin: 0;
+         height: 90px;
+         font-family: 'Roboto', sans-serif;
+         font-weight: bold;
+         font-size: 23px;
+         padding: 15px 30px; 
+         text-align: left; 
+         box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25 );
+}
+
+section {
+   display: flex;
+   flex-direction: column;
+   justify-content: space-evenly;
+   align-items: center;
+   text-align: left;
+   
+}
+
+h2 {
+   text-align: center;
+    width: 322px;
+    height: 55px;
+    top: 159px
+    left: 121px;
+    padding-top: 250px;
+    
+
+}
+
+article {
+   font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+     
+}
+
+article img.circlePic {
+   position: absolute;
+   left: 90px;
+   top: 125px;
+   width: 125px;
+   border-radius: 50%;
+}
+
+i {
+   font-size: 24px;
+   color: red;
+}
+
+div {
+   
+   background-color: #00669F;
+   color: white;
+   width: 108.78px;
+   height: 48.52px;
+   left: 117px;
+   top: 34px;
+   text-align: center;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   position: relative;
+   
+}
+
+section article {
+   display: flex;
+   flex-direction: column;
+}
+
+
+footer {
+   background-color: #00669F;
+   color: white;
+   position: absolute;
+   bottom: 0;
+   width: 100%;
+   font-family: 'Roboto', sans-serif;
+   
+}
+
+.textos{
+   background-color: #F3F3F3;   
+}
+
+ .Batman{
+   background-image: url(../img/baticueva.png);
+   width: 300px;
+   height: 193px;
+   left: 32px;
+   top: 293px;
+   position: absolute;
+   box-sizing: border-box;
+   flex-direction: column;
+   z-index: ;
+   
+}
+
+.Queen {
+   background-image: url(../img/fondoHQ.png);
+   width: 300px;
+   height: 193px;
+   left: 362px;
+   top: 293px;
+   position: absolute;
+}
+
+.Batman2 {
+   background-image: url(../img/baticueva.png);
+   width: 300px;
+   height: 193px;
+   left: 692px;
+   top: 294px;
+   position: absolute;
+}
+
+
